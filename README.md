@@ -2,7 +2,16 @@
 
 I'm Jonathan Okang 
 
-Available for collaborations
+Currently learning frontend development
+* HTML
+* CSS
+* JavaScript
+* ReactJS
+
+Available for collaborations on coding projects.
+
+You can reach me on 
+LinkedIn: https://www.linkedin/in/jonathan-okang
 
 
 
