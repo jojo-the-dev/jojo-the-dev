@@ -11,8 +11,10 @@ Currently learning frontend development
 Available for collaborations on coding projects.
 
 You can reach me on 
-LinkedIn: https://www.linkedin/in/jonathan-okang
 
+LinkedIn: https://www.linkedin/in/jonathan-okang
+WhatsApp: +2349036795940
+Gmail: jonathanokang00@gmail.com
 
 
 <!--
